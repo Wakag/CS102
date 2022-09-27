@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="welcome_text">Lets play tic-tac-toe!</string>
+    <string name="team_name">©2022 Team XO</string>
+    <string name="start_button">Start</string>
+    <string name="image_description">Team Logo</string>
+    <string name="game_options">Select game mode</string>
+    <string name="singleplayer">One player</string>
+    <string name="twoplayers">Two players</string>
+    <string name="online">Online</string>
+    <string name="level1">LVL1</string>
+    <string name="level2">LVL2</string>
+    <string name="level3">LVL3</string>
+    <string name="level4">LVL4</string>
+    <string name="lossoneplayer">You lost!</string>
+    <string name="winoneplayer">You won!</string>
+    <string name="player1wins">Player 1 won!</string>
+    <string name="player2wins">Player 2 won!</string>
+    <string name="backbutton">←</string>
+
+</resources>
