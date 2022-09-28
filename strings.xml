@@ -26,5 +26,13 @@
     <string name="player1wins">Player 1 won!</string>
     <string name="player2wins">Player 2 won!</string>
     <string name="backbutton">←</string>
+    <string name="heart">♥</string>
+    <string name="fulllives">You have 5 lives</string>
+    <string name="lesslife_1">You have lost a life!</string>
+    <string name="livesalmostdone">You have 1 life left!</string>
+    <string name="lives">lives</string>
+    <string name="home">home</string>
+
+
 
 </resources>
